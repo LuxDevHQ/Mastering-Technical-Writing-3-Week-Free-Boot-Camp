@@ -40,4 +40,4 @@
 The "Mastering Technical Writing: 3-Week Free Boot Camp" is an invaluable opportunity for individuals seeking to develop and refine their technical writing skills. Through an engaging and immersive learning experience, participants will gain the knowledge, tools, and confidence to excel as technical writers. Join us on this transformative journey and unlock the power of effective technical communication.
 
 
-[Code of Conduct](https://github.com/LuxDevHQ/Code-Of-Conduct) 
+[Code of Conduct](https://github.com/LuxDevHQ/Code-Of-Conduct) [Twitter](https://twitter.com/LuxDevHQ) [Registration Form](https://forms.gle/bbcZQA51br1GVv856)
